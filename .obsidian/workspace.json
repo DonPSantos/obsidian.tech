@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "d329d13ad831a3ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "00af246fd68fc662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f5a2ffdf0a3ec6f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c1d6de1c3928ff7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bf6c647c449d1aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d99eab4d7b693992",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "7107da6a6661f994",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "65fc69a7b2dc84b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "dcef3907c7dee6fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b37b554494a7ea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee144856fbae05a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d415f669eb73730e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SMTP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para SMTP"
+            }
+          },
+          {
+            "id": "ea13bbc650857a40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "01e2b19a42a2b309",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ad06969fd5ed6649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73286f2a13d15b2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0f5a2ffdf0a3ec6f",
+  "lastOpenFiles": [
+    "4 - Full Notes/Docker-Container/Orquestrador de Container.md",
+    "4 - Full Notes/Conceitos e processos cloud/Auto Scaling.md",
+    "4 - Full Notes/Conceitos e processos cloud/Load Balancing.md",
+    "4 - Full Notes/AWS/Containers/EKS.md",
+    "4 - Full Notes/AWS/Containers/ECS.md",
+    "4 - Full Notes/Docker-Container/Kubernetes.md",
+    "Kubernets.md",
+    "4 - Full Notes/Conceitos e processos cloud/VM.md",
+    "4 - Full Notes/Docker-Container/Docker.md",
+    "4 - Full Notes/Docker-Container/Container.md",
+    "4 - Full Notes/AWS/Containers",
+    "4 - Full Notes/Protocolos/HTTP.md",
+    "4 - Full Notes/Protocolos/HTTPS.md",
+    "4 - Full Notes/Protocolos/FTP.md",
+    "4 - Full Notes/Protocolos/DNS.md",
+    "4 - Full Notes/Protocolos/SMTP.md",
+    "4 - Full Notes/Protocolos/SSL.md",
+    "4 - Full Notes/Protocolos/SMB.md",
+    "4 - Full Notes/Protocolos/SAP.md",
+    "4 - Full Notes/Protocolos/TCP.md",
+    "4 - Full Notes/Protocolos/LLC.md",
+    "4 - Full Notes/Protocolos/UDP.md",
+    "4 - Full Notes/Protocolos/IPv6.md",
+    "4 - Full Notes/Protocolos/IPv4.md",
+    "4 - Full Notes/Protocolos/TLS.md",
+    "4 - Full Notes/Protocolos/SSH.md",
+    "4 - Full Notes/Protocolos/RDP.md",
+    "4 - Full Notes/AWS/BI",
+    "4 - Full Notes/Docker-Container",
+    "4 - Full Notes/AWS/Database",
+    "4 - Full Notes/Conceitos e processos cloud",
+    "4 - Full Notes/Protocolos",
+    "5 - Full Notes/AWS/ELB",
+    "4 - Full Notes/Modelo OSI",
+    "4 - Full Notes/AWS/Payment",
+    "4 - Full Notes/AWS/Auth"
+  ]
+}
