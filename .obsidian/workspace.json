@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "00af246fd68fc662",
+        "id": "2c5342f5a31fbed6",
         "type": "tabs",
         "children": [
           {
-            "id": "0f5a2ffdf0a3ec6f",
+            "id": "571d144a8df5ca4a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -108,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMTP.md",
+                "file": "SRV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para SMTP"
+              "title": "Links de saída para SRV"
             }
           },
           {
@@ -179,43 +179,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f5a2ffdf0a3ec6f",
+  "active": "d99eab4d7b693992",
   "lastOpenFiles": [
-    "4 - Full Notes/Docker-Container/Orquestrador de Container.md",
-    "4 - Full Notes/Conceitos e processos cloud/Auto Scaling.md",
-    "4 - Full Notes/Conceitos e processos cloud/Load Balancing.md",
-    "4 - Full Notes/AWS/Containers/EKS.md",
-    "4 - Full Notes/AWS/Containers/ECS.md",
-    "4 - Full Notes/Docker-Container/Kubernetes.md",
-    "Kubernets.md",
-    "4 - Full Notes/Conceitos e processos cloud/VM.md",
-    "4 - Full Notes/Docker-Container/Docker.md",
-    "4 - Full Notes/Docker-Container/Container.md",
+    "4 - Full Notes/AWS/Domain/Routing Policies/Weighted routing policy.md",
+    "4 - Full Notes/AWS/Domain/Routing Policies/Multivalue answer routing policy.md",
+    "4 - Full Notes/AWS/Domain/Routing Policies/Latency routing policy.md",
+    "4 - Full Notes/AWS/Domain/Routing Policies/IP-based routing policy.md",
+    "4 - Full Notes/AWS/Domain/Routing Policies/Failover routing policy.md",
+    "4 - Full Notes/AWS/Domain/Routing Policies/Geoproximity routing policy.md",
+    "4 - Full Notes/AWS/Domain/Routing Policies/Geolocation routing policy.md",
+    "4 - Full Notes/AWS/Domain/Routing Policies/Simple routing policy.md",
+    "4 - Full Notes/AWS/Domain/Routing Policies/Routing Policies.md",
+    "4 - Full Notes/AWS/Domain/Route 53.md",
+    "4 - Full Notes/Domain/Domínio.md",
+    "4 - Full Notes/AWS/Domain/Routing Policies",
+    "4 - Full Notes/AWS/Domain/Hosted Zones.md",
+    "4 - Full Notes/AWS/BI/Amazon QuickSight.md",
+    "4 - Full Notes/AWS/Payment/Modelos de pagamentos EC2.md",
+    "4 - Full Notes/AWS/Domain",
+    "4 - Full Notes/Domain/DNS.md",
+    "4 - Full Notes/Domain/DNS Records/SRV.md",
+    "4 - Full Notes/Domain/DNS Records/SOA.md",
+    "4 - Full Notes/Domain/DNS Records/PTR.md",
+    "4 - Full Notes/Domain/DNS Records/O que é DNS Records.md",
+    "4 - Full Notes/Domain/DNS Records/MX.md",
+    "4 - Full Notes/Domain/DNS Records/CNAME.md",
+    "4 - Full Notes/Domain/DNS Records/AAAA.md",
+    "4 - Full Notes/Domain/DNS Records/A.md",
+    "4 - Full Notes/Domain/DNS Records/NS.md",
+    "4 - Full Notes/Domain/Servers Types/Authority Name Server.md",
+    "4 - Full Notes/Domain/DNS Records",
+    "4 - Full Notes/Domain/Servers Types/DNS Resolver.md",
+    "4 - Full Notes/Domain/Servers Types",
+    "4 - Full Notes/Domain",
     "4 - Full Notes/AWS/Containers",
-    "4 - Full Notes/Protocolos/HTTP.md",
-    "4 - Full Notes/Protocolos/HTTPS.md",
-    "4 - Full Notes/Protocolos/FTP.md",
-    "4 - Full Notes/Protocolos/DNS.md",
-    "4 - Full Notes/Protocolos/SMTP.md",
-    "4 - Full Notes/Protocolos/SSL.md",
-    "4 - Full Notes/Protocolos/SMB.md",
-    "4 - Full Notes/Protocolos/SAP.md",
-    "4 - Full Notes/Protocolos/TCP.md",
-    "4 - Full Notes/Protocolos/LLC.md",
-    "4 - Full Notes/Protocolos/UDP.md",
-    "4 - Full Notes/Protocolos/IPv6.md",
-    "4 - Full Notes/Protocolos/IPv4.md",
-    "4 - Full Notes/Protocolos/TLS.md",
-    "4 - Full Notes/Protocolos/SSH.md",
-    "4 - Full Notes/Protocolos/RDP.md",
     "4 - Full Notes/AWS/BI",
     "4 - Full Notes/Docker-Container",
     "4 - Full Notes/AWS/Database",
-    "4 - Full Notes/Conceitos e processos cloud",
-    "4 - Full Notes/Protocolos",
-    "5 - Full Notes/AWS/ELB",
-    "4 - Full Notes/Modelo OSI",
-    "4 - Full Notes/AWS/Payment",
-    "4 - Full Notes/AWS/Auth"
+    "4 - Full Notes/Conceitos e processos cloud"
   ]
 }
