@@ -4,20 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "2c5342f5a31fbed6",
+        "id": "0d2dc7fcfd677e27",
         "type": "tabs",
         "children": [
           {
-            "id": "571d144a8df5ca4a",
+            "id": "0dff950fa2964602",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Dynamo DB.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Dynamo DB"
+            }
+          },
+          {
+            "id": "147d4783efa487d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Full Notes/Databases/NoSQL/NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NoSQL"
+            }
+          },
+          {
+            "id": "f5b8edc7a29470ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Full Notes/Databases/NoSQL/Document database.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Document database"
+            }
+          },
+          {
+            "id": "52db94f883373793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Full Notes/Databases/NoSQL/NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NoSQL"
+            }
+          },
+          {
+            "id": "fe43ac005f00b8ef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -44,6 +101,20 @@
             }
           },
           {
+            "id": "45608b62a866f8d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Full Notes/Padrões de tolerância a falhas/Backoff ou Exponential.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backoff ou Exponential"
+            }
+          },
+          {
             "id": "7107da6a6661f994",
             "type": "leaf",
             "state": {
@@ -58,6 +129,20 @@
               },
               "icon": "lucide-search",
               "title": "Procurar"
+            }
+          },
+          {
+            "id": "ac3cee10f811307e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Full Notes/Mensageria/Producer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Producer"
             }
           },
           {
@@ -108,12 +193,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SRV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para SRV"
+              "title": "Links de saída"
             }
           },
           {
@@ -176,46 +260,48 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "d99eab4d7b693992",
   "lastOpenFiles": [
-    "4 - Full Notes/AWS/Domain/Routing Policies/Weighted routing policy.md",
-    "4 - Full Notes/AWS/Domain/Routing Policies/Multivalue answer routing policy.md",
-    "4 - Full Notes/AWS/Domain/Routing Policies/Latency routing policy.md",
-    "4 - Full Notes/AWS/Domain/Routing Policies/IP-based routing policy.md",
-    "4 - Full Notes/AWS/Domain/Routing Policies/Failover routing policy.md",
-    "4 - Full Notes/AWS/Domain/Routing Policies/Geoproximity routing policy.md",
-    "4 - Full Notes/AWS/Domain/Routing Policies/Geolocation routing policy.md",
-    "4 - Full Notes/AWS/Domain/Routing Policies/Simple routing policy.md",
-    "4 - Full Notes/AWS/Domain/Routing Policies/Routing Policies.md",
-    "4 - Full Notes/AWS/Domain/Route 53.md",
-    "4 - Full Notes/Domain/Domínio.md",
-    "4 - Full Notes/AWS/Domain/Routing Policies",
-    "4 - Full Notes/AWS/Domain/Hosted Zones.md",
-    "4 - Full Notes/AWS/BI/Amazon QuickSight.md",
-    "4 - Full Notes/AWS/Payment/Modelos de pagamentos EC2.md",
-    "4 - Full Notes/AWS/Domain",
-    "4 - Full Notes/Domain/DNS.md",
-    "4 - Full Notes/Domain/DNS Records/SRV.md",
-    "4 - Full Notes/Domain/DNS Records/SOA.md",
-    "4 - Full Notes/Domain/DNS Records/PTR.md",
-    "4 - Full Notes/Domain/DNS Records/O que é DNS Records.md",
-    "4 - Full Notes/Domain/DNS Records/MX.md",
-    "4 - Full Notes/Domain/DNS Records/CNAME.md",
-    "4 - Full Notes/Domain/DNS Records/AAAA.md",
-    "4 - Full Notes/Domain/DNS Records/A.md",
-    "4 - Full Notes/Domain/DNS Records/NS.md",
-    "4 - Full Notes/Domain/Servers Types/Authority Name Server.md",
-    "4 - Full Notes/Domain/DNS Records",
-    "4 - Full Notes/Domain/Servers Types/DNS Resolver.md",
-    "4 - Full Notes/Domain/Servers Types",
-    "4 - Full Notes/Domain",
-    "4 - Full Notes/AWS/Containers",
-    "4 - Full Notes/AWS/BI",
-    "4 - Full Notes/Docker-Container",
-    "4 - Full Notes/AWS/Database",
-    "4 - Full Notes/Conceitos e processos cloud"
+    "4 - Full Notes/Databases/NoSQL/NoSQL.md",
+    "1 - Rough Notes/Dynamo DB.md",
+    "4 - Full Notes/Databases/NoSQL/Document database.md",
+    "4 - Full Notes/Databases/NoSQL/Graph database.md",
+    "4 - Full Notes/Databases/NoSQL/In-memory database.md",
+    "4 - Full Notes/Databases/NoSQL/Key-Value database.md",
+    "4 - Full Notes/Databases/NoSQL/Column-oriented database.md",
+    "4 - Full Notes/Databases/NoSQL",
+    "4 - Full Notes/Databases/SQL",
+    "4 - Full Notes/Databases/SQL/SQL.md",
+    "4 - Full Notes/Databases/SQL/Bancos de Dados Relacionais.md",
+    "4 - Full Notes/Databases",
+    "4 - Full Notes/Languages",
+    "4 - Full Notes/AWS/Observability/AWS X-Ray.md",
+    "4 - Full Notes/AWS/Observability",
+    "4 - Full Notes/Conceitos e processos cloud/Observability.md",
+    "4 - Full Notes/AWS/Integração de recursos/AWS Step Functions.md",
+    "4 - Full Notes/AWS/Integração de recursos",
+    "4 - Full Notes/Design Patterns/SAGA Pattern.md",
+    "4 - Full Notes/Design Patterns/Behavioral Design Patterns",
+    "4 - Full Notes/Padrões arquitetônicos/O que são Padrões arquitetônicos.md",
+    "4 - Full Notes/Design Patterns",
+    "4 - Full Notes/Sem título.md",
+    "4 - Full Notes/AWS/Serverless/AWS Lambda.md",
+    "4 - Full Notes/AWS/Serverless/AWS Lambda Version.md",
+    "4 - Full Notes/AWS/CDN/CloudFront.md",
+    "4 - Full Notes/Protocolos/AMQP.md",
+    "4 - Full Notes/Protocolos/MAC.md",
+    "4 - Full Notes/Protocolos/RDP.md",
+    "4 - Full Notes/Conceitos e processos cloud/Application Programming Interface (API).md",
+    "Excalidraw/Drawing 2025-06-26 10.57.44.excalidraw.md",
+    "4 - Full Notes/API Gateway/Vantagens de uso API Gateway.md",
+    "4 - Full Notes/API Gateway/API Gateway.md",
+    "4 - Full Notes/API Gateway",
+    "1 - Rough Notes/Quando usar um API Gateway.md",
+    "Excalidraw/libs/aws-architecture-icons.excalidrawlib",
+    "Sem título.canvas"
   ]
 }
