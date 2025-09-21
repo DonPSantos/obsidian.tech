@@ -4,67 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d2dc7fcfd677e27",
+        "id": "95ab7e9175a7df60",
         "type": "tabs",
         "children": [
           {
-            "id": "0dff950fa2964602",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/Dynamo DB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dynamo DB"
-            }
-          },
-          {
-            "id": "147d4783efa487d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Full Notes/Databases/NoSQL/NoSQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NoSQL"
-            }
-          },
-          {
-            "id": "f5b8edc7a29470ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Full Notes/Databases/NoSQL/Document database.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Document database"
-            }
-          },
-          {
-            "id": "52db94f883373793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Full Notes/Databases/NoSQL/NoSQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NoSQL"
-            }
-          },
-          {
-            "id": "fe43ac005f00b8ef",
+            "id": "1b4cd34f29289562",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -73,8 +17,7 @@
               "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SQS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,6 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -264,44 +208,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d99eab4d7b693992",
+  "active": "1b4cd34f29289562",
   "lastOpenFiles": [
-    "4 - Full Notes/Databases/NoSQL/NoSQL.md",
-    "1 - Rough Notes/Dynamo DB.md",
-    "4 - Full Notes/Databases/NoSQL/Document database.md",
-    "4 - Full Notes/Databases/NoSQL/Graph database.md",
-    "4 - Full Notes/Databases/NoSQL/In-memory database.md",
+    "Excalidraw/Drawing 2025-06-26 10.57.44.excalidraw.md",
+    "4 - Full Notes/AWS/Messaging/SQS/Amazon SQS.md",
+    "4 - Full Notes/AWS/Messaging/SQS/SQS FIFO.md",
+    "4 - Full Notes/AWS/Messaging/SQS/SQS Standard.md",
+    "4 - Full Notes/AWS/Messaging/SQS",
+    "4 - Full Notes/AWS/Messaging",
+    "4 - Full Notes/Mensageria/O que é uma mensageria.md",
+    "4 - Full Notes/Mensageria/Message Broker.md",
+    "4 - Full Notes/Mensageria/Queue.md",
+    "4 - Full Notes/AWS/Security/KMS/Key user.md",
+    "4 - Full Notes/AWS/Security/KMS/Key administrator.md",
+    "4 - Full Notes/AWS/Security/KMS",
+    "4 - Full Notes/AWS/Security",
+    "4 - Full Notes/AWS/Security/KMS/KMS.md",
+    "1 - Rough Notes/gitguardian.md",
+    "Chaves Simetricas.md",
+    "1 - Rough Notes/bearer sast.md",
+    "1 - Rough Notes/Snyk.md",
+    "1 - Rough Notes/GroundCover.md",
+    "4 - Full Notes/Auth/OAuth2/O que é o OAuth2.md",
+    "3 - Templates/Note with compare services.md",
+    "3 - Templates/Generic Note.md",
+    "4 - Full Notes/Docker-Container/Kubernetes.md",
+    "4 - Full Notes/Auth/OAuth2",
+    "4 - Full Notes/Auth",
+    "4 - Full Notes/Docker-Container/Container.md",
     "4 - Full Notes/Databases/NoSQL/Key-Value database.md",
+    "4 - Full Notes/Databases/NoSQL/Document database.md",
     "4 - Full Notes/Databases/NoSQL/Column-oriented database.md",
+    "4 - Full Notes/AWS/Domain/Routing Policies/Geolocation routing policy.md",
+    "4 - Full Notes/AWS/Domain/Routing Policies/Failover routing policy.md",
+    "4 - Full Notes/AWS/CDN/CloudFront.md",
+    "4 - Full Notes/AWS/Database/NoSQL",
+    "4 - Full Notes/AWS/Database/SQL",
     "4 - Full Notes/Databases/NoSQL",
     "4 - Full Notes/Databases/SQL",
-    "4 - Full Notes/Databases/SQL/SQL.md",
-    "4 - Full Notes/Databases/SQL/Bancos de Dados Relacionais.md",
-    "4 - Full Notes/Databases",
-    "4 - Full Notes/Languages",
-    "4 - Full Notes/AWS/Observability/AWS X-Ray.md",
-    "4 - Full Notes/AWS/Observability",
-    "4 - Full Notes/Conceitos e processos cloud/Observability.md",
-    "4 - Full Notes/AWS/Integração de recursos/AWS Step Functions.md",
-    "4 - Full Notes/AWS/Integração de recursos",
-    "4 - Full Notes/Design Patterns/SAGA Pattern.md",
-    "4 - Full Notes/Design Patterns/Behavioral Design Patterns",
-    "4 - Full Notes/Padrões arquitetônicos/O que são Padrões arquitetônicos.md",
-    "4 - Full Notes/Design Patterns",
-    "4 - Full Notes/Sem título.md",
-    "4 - Full Notes/AWS/Serverless/AWS Lambda.md",
-    "4 - Full Notes/AWS/Serverless/AWS Lambda Version.md",
-    "4 - Full Notes/AWS/CDN/CloudFront.md",
-    "4 - Full Notes/Protocolos/AMQP.md",
-    "4 - Full Notes/Protocolos/MAC.md",
-    "4 - Full Notes/Protocolos/RDP.md",
-    "4 - Full Notes/Conceitos e processos cloud/Application Programming Interface (API).md",
-    "Excalidraw/Drawing 2025-06-26 10.57.44.excalidraw.md",
-    "4 - Full Notes/API Gateway/Vantagens de uso API Gateway.md",
-    "4 - Full Notes/API Gateway/API Gateway.md",
-    "4 - Full Notes/API Gateway",
-    "1 - Rough Notes/Quando usar um API Gateway.md",
-    "Excalidraw/libs/aws-architecture-icons.excalidrawlib",
     "Sem título.canvas"
   ]
 }
