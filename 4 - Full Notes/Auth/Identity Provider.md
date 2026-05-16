@@ -5,7 +5,7 @@ Tags: #auth
 ---
 ## Conceito Geral
 É um serviço (existe vários) que é responsável por armazenar e verificar identidades de usuários.
-Geralmente ele conversa com algum serviço de [[SSO]].
+Geralmente ele conversa com algum serviço de [[O que é SSO]].
  
 ---
 ## Referências

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b2d4935a72ded06",
+        "id": "a16b9e8ede0d4678",
         "type": "tabs",
         "children": [
           {
-            "id": "17c22708bd77dc1a",
+            "id": "876dd8cf3a6effcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/CAP.md",
+                "file": "4 - Full Notes/Princípios/SOLID/Interface Segregation Principle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAP"
+              "title": "Interface Segregation Principle"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CI CD",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Password Credentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Password Credentials"
             }
           },
           {
@@ -185,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/CAP.md",
+                "file": "4 - Full Notes/Princípios/SOLID/Interface Segregation Principle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de CAP"
+              "title": "Sumário de Interface Segregation Principle"
             }
           }
         ]
@@ -209,48 +210,48 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17c22708bd77dc1a",
+  "active": "876dd8cf3a6effcf",
   "lastOpenFiles": [
-    "1 - Rough Notes/Snyk.md",
-    "1 - Rough Notes/PACELC.md",
+    "4 - Full Notes/Databases/Teoremas/PACELC.md",
+    "4 - Full Notes/Databases/Teoremas/CAP.md",
+    "4 - Full Notes/Princípios/SOLID/O que é o SOLID.md",
+    "4 - Full Notes/Princípios/SOLID/Interface Segregation Principle.md",
+    "4 - Full Notes/Princípios/SOLID/Dependency Inversion Principle.md",
+    "4 - Full Notes/Princípios/SOLID/Liskov Substitution Principle.md",
+    "4 - Full Notes/Princípios/SOLID/Open-Closed Principle.md",
+    "4 - Full Notes/Princípios/SOLID/Single Responsability Principle.md",
+    "4 - Full Notes/Princípios/SOLID",
+    "4 - Full Notes/Princípios",
+    "1 - Rough Notes/Setup.md",
     "1 - Rough Notes/GroundCover.md",
-    "1 - Rough Notes/KPI.md",
-    "1 - Rough Notes/CAP.md",
-    "4 - Full Notes/Indicadores",
-    "1 - Rough Notes/AWS Direct Connect.md",
-    "4 - Full Notes/AWS/Auth/AWS Identity and Access Management (IAM)/AWS Groups.md",
-    "4 - Full Notes/AWS/Auth/Amazon Cognito/Amazon  Cognito User Pools.md",
-    "4 - Full Notes/AWS/Auth/AWS Identity and Access Management (IAM)",
-    "4 - Full Notes/AWS/Auth/Sem título",
-    "4 - Full Notes/Auth/SSO.md",
-    "4 - Full Notes/AWS/Auth/Amazon Cognito",
+    "1 - Rough Notes/Snyk.md",
+    "1 - Rough Notes/IAM.md",
+    "1 - Rough Notes/gitguardian.md",
+    "4 - Full Notes/Tools/Security/SAST.md",
+    "1 - Rough Notes/bearer sast.md",
+    "4 - Full Notes/Tools/Security",
+    "4 - Full Notes/Tools",
+    "4 - Full Notes/Auth/Autenticação/OIDC.md",
+    "4 - Full Notes/Auth/O que é SCIM.md",
+    "4 - Full Notes/Auth/Autenticação/O que é SSO.md",
     "4 - Full Notes/Auth/Identity Provider.md",
-    "4 - Full Notes/AWS/Auth/Amazon Cognito/Amazon Cognito Identity Pools.md",
-    "4 - Full Notes/AWS/Auth/Amazon Cognito/Amazon Cognito.md",
-    "4 - Full Notes/AWS/Auth/Web Identity Federarion.md",
-    "1 - Rough Notes/Sem título",
-    "4 - Full Notes/Auth/OAuth2/O que é o OAuth2.md",
-    "4 - Full Notes/AWS/DevOps/CodeBuild.md",
-    "4 - Full Notes/AWS/DevOps/CodeCommit - Deprecated.md",
-    "4 - Full Notes/AWS/DevOps/Amazon CodeCatalyst.md",
-    "4 - Full Notes/AWS/DevOps",
-    "4 - Full Notes/AWS/DevOps/CodePipeline.md",
-    "4 - Full Notes/AWS/DevOps/CodeDeploy.md",
-    "4 - Full Notes/DevOps/Blue-Green.md",
-    "4 - Full Notes/DevOps/Canary.md",
-    "4 - Full Notes/DevOps/Continuous Delivery.md",
-    "4 - Full Notes/DevOps/Estratégias de Implantação de Software.md",
-    "4 - Full Notes/DevOps",
-    "4 - Full Notes/DevOps/Continuous Integration.md",
-    "4 - Full Notes/DevOps/DevOps.md",
-    "4 - Full Notes/DevOps/CI CD.md",
-    "4 - Full Notes/AWS/Messaging and Streaming/Kinesis",
-    "4 - Full Notes/Infra",
-    "4 - Full Notes/AWS/IaaS",
+    "4 - Full Notes/Auth/Autenticação/Autenticação.md",
+    "4 - Full Notes/Auth/Autenticação",
+    "4 - Full Notes/Auth/Autorização",
+    "4 - Full Notes/Auth/Autorização/OAuth2/Objetos/Access Token.md",
+    "4 - Full Notes/Auth/Autorização/OAuth2/O que é o OAuth2.md",
+    "4 - Full Notes/Auth/Autorização/Autorização.md",
+    "4 - Full Notes/Auth/Token Opaco.md",
+    "4 - Full Notes/Auth/JWT/O que é JWT.md",
+    "4 - Full Notes/Auth/Autenticação/O que é SAML.md",
+    "4 - Full Notes/Auth/Autenticação/SAML",
+    "4 - Full Notes/Auth/Autorização/OAuth2/Objetos",
+    "4 - Full Notes/Auth/Autorização/OAuth2/Grant Types",
+    "4 - Full Notes/Auth/Autorização/OAuth2/Agentes",
+    "1 - Rough Notes/Untitled Diagram.svg",
     "Sem título.canvas"
   ]
 }

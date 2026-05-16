@@ -4,7 +4,7 @@ Tags: #auth
 
 ---
 ## Conceito Geral
-É a parte do [[Amazon Cognito|Cognito]] responsável por armazenar os usuários e suas informações, elas podem ser obtidas por um login com senha ou login com [[SSO]].
+É a parte do [[Amazon Cognito|Cognito]] responsável por armazenar os usuários e suas informações, elas podem ser obtidas por um login com senha ou login com [[O que é SSO]].
 
 ---
 ## Referências

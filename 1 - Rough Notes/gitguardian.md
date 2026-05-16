@@ -1,1 +1,0 @@
-não deixa subir secret

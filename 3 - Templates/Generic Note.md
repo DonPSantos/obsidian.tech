@@ -6,4 +6,3 @@ Tags:
 ## Conceito Geral
 
 ---
-## Referências

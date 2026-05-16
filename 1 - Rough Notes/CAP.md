@@ -1,1 +1,0 @@
-Teorema V1
